@@ -13,7 +13,6 @@ Js and Node Js) stack.
 
 
 # Get in Touch
-<img alt="linkedIn" src="https://img.shields.io/endpoint?url=<[LinkedIn](https://www.linkedin.com/in/samuel-mintah-a4878a158/)>&style<&style=for-the-badge&logo=linkedin&logoColor=white"/>
-     
-<!-- <img alt="linkedIn" src="https://img.shields.io/badge/linkedIn-in/samuel-mintah-%a4878a158/.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><br> -->
+#EMAIL  : sam.mintah01@gmail.com
+<br>
 <img alt="Twitter" src="https://img.shields.io/badge/TWITTER-sami_blaq-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
