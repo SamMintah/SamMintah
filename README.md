@@ -14,5 +14,5 @@ Js and Node Js) stack.
 
 # Get in Touch
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in/samuel-mintah-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><br>
+<img alt="gmail" src="https://img.shields.io/badge/Gmail-in/%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><br>
 <img alt="Twitter" src="https://img.shields.io/badge/TWITTER-sami_blaq-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
