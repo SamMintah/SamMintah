@@ -1,7 +1,9 @@
 # Thanks for stopping by 👋
 
-![unnamed](https://user-images.githubusercontent.com/100992913/209042519-bf2774cd-f771-4710-ab55-f7a792b6010e.jpg)
-
+My name is Samuel Mintah, a Software developer with a special interest in IT security, System 
+Programming and Database Administration, skilled in writing and testing code and helping 
+develop software solutions. I utilize JavaScript and the MERN (MongoDB, Express Js, React 
+Js and Node Js) stack.
 <br>
 
 ## Stack and Tools
@@ -10,6 +12,5 @@
 
 
 # Get in Touch
-#EMAIL  : sam.mintah01@gmail.com
 <br>
 <img alt="Twitter" src="https://img.shields.io/badge/TWITTER-sami_blaq-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
