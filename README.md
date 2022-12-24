@@ -13,4 +13,4 @@ Js and Node Js) stack.
 
 # Get in Touch
 <br>
-<img alt="Twitter" src="https://img.shields.io/badge/TWITTER-sami_blaq-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
+<img alt="Twitter" src="https://img.shields.io/badge/TWITTER-kay_teq-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <br>
