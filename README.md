@@ -1,7 +1,7 @@
 # Thanks for stopping by 👋
 
 ### My name is Samuel Mintah, a Software developer 💻
-with a special interest in IT security, System 
+I have a special interest in IT security, System 
 Programming and Database Administration, skilled in writing and testing code and helping 
 develop software solutions. I utilize JavaScript and the MERN (MongoDB, Express Js, React 
 Js and Node Js) stack.
