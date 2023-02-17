@@ -1,6 +1,8 @@
 # Thanks for stopping by 👋
 
 #### Hi there! I'm Samuel Mintah, a full-stack developer with a passion for creating elegant solutions. I'm always eager to take on new challenges and improve my skills. I'm also open to collaborating and sharing knowledge. Let's build something great together!
+
+[LinkFree Profile](https://linkfree.eddiehub.io/SamMintah) 
 <br>
 
 ## Stack and Tools
