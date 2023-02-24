@@ -1,6 +1,6 @@
 ## Hello 👋, fellow keyboard wizards and aliens from outer space! 👽 
 
-####  I have embarked on a new journey of exploring the galaxy of open source, one commit at a time. Join me in this adventure and let's create some out-of-this-world projects together. If I'm not typing away at my keyboard, you can find me in my rocket ship, flying through the universe and snacking on space snacks. 🚀  Let's have a blast while building amazing stuff! 🚀👽
+####  I'm on a new mission to explore the open source galaxy, one commit at a time. Come aboard my spaceship and let's create some mind-blowing projects together! And if I'm not furiously typing away on my keyboard, I'm probably cruising through the cosmos, munching on some cosmic treats. 🚀 So let's buckle up and enjoy the ride while we code some wicked cool stuff! 🚀👽
 
 [LinkFree Profile](https://linkfree.eddiehub.io/SamMintah) 
 <br>
