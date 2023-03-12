@@ -1,7 +1,7 @@
-## Hello 👋, 
+## Hello 👋, Sam here.
 ---
 
- #### ⚡ I'm on a new mission to explore the open source galaxy, one commit at a time. Come aboard my spaceship and let's create some mind-blowing projects together! And if I'm not furiously typing away on my keyboard, I'm probably cruising through the cosmos, munching on some cosmic treats. 🚀 So let's buckle up and enjoy the ride while we code some wicked cool stuff! 
+ #### ⚡ on a cosmic adventure to explore the vast universe of open source, one epic commit at a time.🚀 
  
 ---
 
