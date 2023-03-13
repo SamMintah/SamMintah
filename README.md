@@ -1,7 +1,7 @@
-## Hello 👋, Sam here.
+## Hello 👋, Sam here!
 ---
 
- #### ⚡ on a cosmic adventure to explore the vast universe of open source, one epic commit at a time.🚀 
+ #### ⚡ I'm on a cosmic adventure to explore the vast universe of open source, one epic commit at a time.🚀 
  
 ---
 
