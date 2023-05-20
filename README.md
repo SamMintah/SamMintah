@@ -1,7 +1,7 @@
-## Hello 👋, Sam here!
+## Hello 👋,!
 ---
 
- #### ⚡ I'm on a cosmic adventure to explore the vast universe of open source, one epic commit at a time.🚀 
+ #### ⚡ I'm a passionate and versatile Fullstack Developer with a strong interest in open-source projects. I thrive in challenging environments where I can contribute my skills and knowledge to develop innovative solutions. With a background in both frontend and backend development, I enjoy crafting seamless user experiences while ensuring robust and scalable functionality.🚀 
  
 ---
 
