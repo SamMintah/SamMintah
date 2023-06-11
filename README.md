@@ -1,8 +1,6 @@
-## Hello 👋,!
 ---
 
- #### ⚡ I'm a passionate and versatile Fullstack Developer with a strong interest in open-source projects. I thrive in challenging environments where I can contribute my skills and knowledge to develop innovative solutions. With a background in both frontend and backend development, I enjoy crafting seamless user experiences while ensuring robust and scalable functionality.🚀 
- 
+ #### ⚡Hi there! I'm a passionate developer with expertise in both frontend and backend development. I enjoy working on open-source projects and love to tackle new challenges. Let's create something awesome together!
 ---
 
 <br>
