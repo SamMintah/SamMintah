@@ -17,10 +17,9 @@
 | ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samMintah&show_icons=true&bg_color=00000000) | ![Sam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samMintah&theme=city-lights&bg_color=00000000) |
 | :---: | :---: |
 
-[![sam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samMintah&theme=react)](https://github.com/samMintah/github-readme-activity-graph)
 
+[![sam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamMintah&theme=github-compact)](https://github.com/SamMintah/github-readme-activity-graph)
 ​
-
 ## 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
