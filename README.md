@@ -1,7 +1,5 @@
 ---
- #### ⚡Hi there! Experienced Software Developer proficient in full-stack development, with a focus on Node.js. I am passionate about driving innovation and leading projects using a diverse range of technologies, including JavaScript, TypeScript, MongoDB, Docker, AWS, S3, Azure, and other cutting-edge tools.
-
-As the founder of Aidexx, an AI-driven platform aimed at streamlining workflows through intelligent tools, I harness advanced AI techniques to optimize processes efficiently. I am dedicated to contributing to the open-source community, continually enhancing my skills, and fostering collaborative team environments.
+ #### ⚡
 ---
 
 <h2 align="center">Contribution Overview</h2>
