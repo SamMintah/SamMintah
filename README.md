@@ -1,5 +1,7 @@
 ---
  #### ⚡
+ Hi there 👋
+🔭 I’m currently working on aidexx.
 ---
 
 <h2 align="center">Contribution Overview</h2>
