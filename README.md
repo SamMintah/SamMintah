@@ -1,9 +1,3 @@
----
- #### ⚡
- Hi there 👋
-🔭 I’m currently working on aidexx.
----
-
 <h2 align="center">Contribution Overview</h2>
 
 | ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samMintah&show_icons=true&bg_color=00000000) | ![Sam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samMintah&theme=city-lights&bg_color=00000000) |
