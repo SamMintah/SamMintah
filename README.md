@@ -5,8 +5,6 @@
 
 <br>
 
-
-
   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamMintah&theme=github_dark) 
 
 
