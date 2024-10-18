@@ -21,4 +21,3 @@
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: SamMintah Visitor's Count" /></p> 
-
