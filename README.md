@@ -7,7 +7,6 @@
 
   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamMintah&theme=github_dark) 
 
-
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
