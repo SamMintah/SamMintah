@@ -1,7 +1,8 @@
-<h2 align="center">Contribution Overview</h2>
-
-  ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamMintah&theme=github_dark) |
- | :---: |
+* 👋 Hey, call me Sam!
+* Full-Stack Engineer | AI/ML Enthusiast | Building for impact
+* By Day: Secure backend systems processing millions in transactions
+* By Night: AI tools helping 10,000+ farmers access market data offline
+* 💻 Tech: TypeScript, Python, Node.js, PostgreSQL, LangChain, React
 
 <br>
 
