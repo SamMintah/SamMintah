@@ -1,11 +1,9 @@
 <h2 align="center">Contribution Overview</h2>
 
-| ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samMintah&show_icons=true&bg_color=00000000) |   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamMintah&theme=github_dark) |
-| :---: | :---: |
+  ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamMintah&theme=github_dark) |
+ | :---: |
 
 <br>
-
-
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
@@ -19,4 +17,4 @@
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: SamMintah Visitor's Count" /></p> 
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: SamMintah Visitor's Count" /></p>  -->
