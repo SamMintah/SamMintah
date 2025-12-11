@@ -1,8 +1,21 @@
-* 👋 Hey, call me Sam!
-* Full-Stack Engineer | AI/ML Enthusiast | Building for impact
-* By Day: Secure backend systems processing millions in transactions
-* By Night: AI tools helping 10,000+ farmers access market data offline
-* 💻 Tech: TypeScript, Python, Node.js, PostgreSQL, LangChain, React
+# 👋 Hey, call me Sam!
+
+By day I build secure backend systems that power real products and handle millions in transactions.  
+By night I work on AI tools that support 10,000+ farmers with offline market and advisory data.
+
+I’m a Full-Stack Engineer who enjoys architecture, system design, and practical AI.
+
+## 🚀 Currently Building
+### **[ARCH](https://sammintah.github.io/arch-ai)** – an AI senior-engineer mentor that helps developers think through systems instead of just generating code.
+
+## 💻 Tech I Enjoy Working With
+- TypeScript  
+- Node.js  
+- Python  
+- PostgreSQL  
+- Redis  
+- LangChain  
+- React 
 
 <br>
 
