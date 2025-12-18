@@ -24,6 +24,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF4785?style=flat&logo=convex&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -37,6 +39,9 @@
 ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logo=ai&logoColor=white)
+
+### AI Automation
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
