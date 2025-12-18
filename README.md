@@ -43,10 +43,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white)
 ---
-
-### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-samuel.mintah002%40gmail.com-red?style=flat&logo=gmail)](mailto:samuel.mintah002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([linkedin](https://www.linkedin.com/in/samuel-mintah/))
 <br>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
