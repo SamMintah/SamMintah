@@ -12,41 +12,14 @@
 **[arch](https://sammintah.github.io/arch-ai)** -  An AI senior-engineer mentor that helps developers think through systems instead of just generating code.
 
 ## 💼 Specialization
-- 🔧 Backend Systems
-- 🤖 AI Integration
-- 📱 Mobile Apps
+- 🔧 Backend Systems - 🤖 AI Integration - 📱 Mobile Apps
 
 ## 🛠️ Tech Stack
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-FF4785?style=flat&logo=convex&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white)
-![Google AI](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logo=ai&logoColor=white)
-
-### AI Automation
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white)
+## Backend : ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF4785?style=flat&logo=convex&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### Frontend : ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### AI & ML : ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white) ![Google AI](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logo=ai&logoColor=white)
+### AI Automation : ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+### DevOps & Tools : ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white)
 ---
 <br>
 
