@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 Currently Building
-**[arch](https://sammintah.github.io/arch-ai)** -  An AI senior-engineer mentor that helps developers think through systems instead of just generating code.
+**[ARCH](https://sammintah.github.io/arch-ai)** -  An AI senior-engineer mentor that helps developers think through systems instead of just generating code.
 
 ## 💼 Specialization
 - 🔧 Backend Systems - 🤖 AI Integration - 📱 Mobile Apps
