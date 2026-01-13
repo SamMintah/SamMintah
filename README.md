@@ -1,26 +1,14 @@
+
 # 👋 Hi, I'm Sam
 
-<div align="center">
-  
-![Role](https://img.shields.io/badge/Role-Full--Stack%20Engineer-blue?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Users%20Served-10%2C000%2B-orange?style=for-the-badge)
-![Transactions](https://img.shields.io/badge/Transactions-36M%2B%20GHS-red?style=for-the-badge)
+**Full-Stack Engineer** building backend systems and AI-powered applications.
 
-</div>
+Currently building **[ARCH](https://sammintah.github.io/arch-ai)** - an AI system design assistant that orchestrates multiple LLMs to guide engineers through system design.
 
-## 🚀 Currently Building
-**[ARCH](https://sammintah.github.io/arch-ai)** -  An AI senior-engineer mentor that helps developers think through systems instead of just generating code.
+I've got deep experience with Node.js, NestJS, PostgreSQL, and GraphQL. On the frontend, I work with React, Next.js, and React Native. I've been diving deep into AI integration and LLM orchestration, and prompt engineering to build intelligent systems.
 
-## 💼 Specialization
-- 🔧 Backend Systems - 🤖 AI Integration - 📱 Mobile Apps
+My main focus is backend systems - multi-tenant architectures, database optimization, and API design.
 
-## 🛠️ Tech Stack
-## Backend : ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF4785?style=flat&logo=convex&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-### Frontend : ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-### AI & ML : ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white) ![Google AI](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logo=ai&logoColor=white)
-### AI Automation : ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
-### DevOps & Tools : ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white)
----
 <br>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
